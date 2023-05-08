@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+| ![Thanh's github stats](https://github-readme-stats.vercel.app/api?username=thethanh02&show_icons=true&theme=tokyonight) | ![Thanh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thethanh02&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thethanh02&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=thethanh02&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 <!--
 **thethanh02/thethanh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
